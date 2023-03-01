@@ -1,2 +1,3 @@
-# auliategarrahman.github.io
-# Aulia Tegar Rahman Profile
+# Aulia Tegar Rahman Blog
+
+To describe my appearance and my project. Love you.
